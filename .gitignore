@@ -1,0 +1,6 @@
+index.html
+Makefile
+*.DS_Store
+.staticrypt.json
+password_template.html
+Readme
